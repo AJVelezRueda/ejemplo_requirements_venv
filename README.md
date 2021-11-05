@@ -6,7 +6,7 @@ Este es un repositorio de ejemplo sobre el uso combinado de `pip`, `venv` y `req
 
 ## Uso
 
-En un entorno con `python3` y `pip3` instalado, ejecutar los siguientes comandos:
+En un entorno con `python3.8` y `pip3` instalado, ejecutar los siguientes comandos:
 
 ```bash
 # clonamos repositorio
